@@ -1,0 +1,6 @@
+streamlit
+pandas
+mysql-connector-python
+matplotlib
+pillow
+streamlit-option-menu
