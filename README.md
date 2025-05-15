@@ -16,12 +16,7 @@ To build an interactive and secure system for:
 - Managing user accounts with login authentication
 - Contacting admins via a message form
 
-You can use this project at :
-- [Home Page](https://emp-system.streamlit.app/)
 
-
-
-- [Admin Dashboard](https://emp-system1.streamlit.app/)
 ---
 
 ## 🛠️ Technologies Used
